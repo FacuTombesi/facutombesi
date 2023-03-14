@@ -1,8 +1,9 @@
 <div>
   <h1 align="center">Hi! I'm Facundo Martín Tombesi</h1>  
-  <h2 align="center">, a Full Stack Developer and Multimedia Designer 🚀</h2>
+  <h3 align="center">, a Full Stack Developer and Multimedia Designer 🚀</h3>
 </div>
   
+<br/>
 
 - 🔭 I’m currently working on new projects for my portfolio  
   
