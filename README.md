@@ -85,7 +85,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=facutombesi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center" dir="auto">
+ <img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api?username=facutombesi&show_icons=true&theme=radical" />
+ <img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facutombesi&theme=radical&count_private=true" />
+</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facutombesi&hide_border=true&layout=compact" align="center" /></div>
 <br />
