@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on new projects for my portfolio  
   
 
-- 🌱 I’m currently learning Next.JS and frameworks  
+- 🌱 I’m currently learning Next.JS and React Native  
   
 
 - 📧 You can reach me through [here](mailto:facundomtombesi@gmail.com)   
