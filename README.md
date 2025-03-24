@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on new projects
 
 
-- 🌱 I’m currently learning Next.JS
+- 🌱 I’m currently learning Python
 
 
 - 📧 You can reach me through [here](mailto:facundomtombesi@gmail.com)
